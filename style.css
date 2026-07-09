@@ -34,18 +34,18 @@ a {
     font-size: 20px;
 }
 nav {
-    background-color: darkblue;
+    background-color: black;
     padding: 15px;
 }
 
 nav a {
-    color: white;
+    color: lightgreen;
     text-decoration: none;
-    font-size: 18px;
+    font-size: 22px;
     margin: 10px;
     font-weight: bold;
 }
 
 nav a:hover {
-    color: yellow;
+    color: red;
 }
