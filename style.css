@@ -33,17 +33,19 @@ button {
 a {
     font-size: 20px;
 }
-nav{
-    background-color:darkblue;
-    padding:15px;
+nav {
+    background-color: darkblue;
+    padding: 15px;
 }
-nav a{
-    color:white;
-    text-decoration:none;
-    font-size:18px;
-    margin:10px;
-    font-weight:bold;
+
+nav a {
+    color: white;
+    text-decoration: none;
+    font-size: 18px;
+    margin: 10px;
+    font-weight: bold;
 }
-nav a:hover{
-    color:yellow;
+
+nav a:hover {
+    color: yellow;
 }
