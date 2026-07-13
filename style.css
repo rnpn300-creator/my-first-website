@@ -54,4 +54,5 @@ nav a:hover {
 }
 .hero{
     diplay:flex;
+    gap: 30px;
 }
