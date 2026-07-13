@@ -52,3 +52,6 @@ nav a {
 nav a:hover {
     color: red;
 }
+.hero{
+    diplay:flex;
+}
